@@ -1,0 +1,11 @@
+{
+  "firstName": "Salman",
+  "lastName": "Asad",
+  "email": "salman.asad@example.com",
+  "phone": "+92 300 1234567",
+  "company": "Karachi University",
+  "position": "Student",
+  "bio": "I'm a student at Karachi University working on productivity software.",
+  "avatar": "/placeholder.svg?height=128&width=128"
+}
+

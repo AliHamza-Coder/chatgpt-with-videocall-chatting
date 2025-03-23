@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Clint 1",
+    "lastSeen": "Online",
+    "time": "11 minutes ago",
+    "avatar": "/placeholder.svg?height=40&width=40",
+    "online": true
+  },
+  {
+    "id": 2,
+    "name": "Clint 2",
+    "lastSeen": "Last seen 5 min ago",
+    "time": "29 minutes ago",
+    "avatar": "/placeholder.svg?height=40&width=40"
+  },
+  {
+    "id": 3,
+    "name": "Clint 3",
+    "lastSeen": "Online",
+    "time": "44 minutes ago",
+    "avatar": "/placeholder.svg?height=40&width=40",
+    "online": true
+  },
+  {
+    "id": 4,
+    "name": "Clint 4",
+    "lastSeen": "Last seen 1 hour ago",
+    "time": "2 hours ago",
+    "avatar": "/placeholder.svg?height=40&width=40"
+  },
+  {
+    "id": 5,
+    "name": "Clint 5",
+    "lastSeen": "Last seen yesterday",
+    "time": "3 hours ago",
+    "avatar": "/placeholder.svg?height=40&width=40"
+  }
+]
+

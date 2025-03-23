@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Clint 1",
+    "lastMessage": "11 minutes ago",
+    "time": "11 minutes ago",
+    "avatar": "/placeholder.svg?height=40&width=40",
+    "online": true
+  },
+  {
+    "id": 2,
+    "name": "Clint 2",
+    "lastMessage": "29 minutes ago",
+    "time": "29 minutes ago",
+    "avatar": "/placeholder.svg?height=40&width=40"
+  },
+  {
+    "id": 3,
+    "name": "Clint 13",
+    "lastMessage": "44 minutes ago",
+    "time": "44 minutes ago",
+    "avatar": "/placeholder.svg?height=40&width=40",
+    "online": true
+  },
+  {
+    "id": 4,
+    "name": "Clint 4",
+    "lastMessage": "2 hours ago",
+    "time": "2 hours ago",
+    "avatar": "/placeholder.svg?height=40&width=40"
+  },
+  {
+    "id": 5,
+    "name": "Clint 5",
+    "lastMessage": "3 hours ago",
+    "time": "3 hours ago",
+    "avatar": "/placeholder.svg?height=40&width=40"
+  }
+]
+

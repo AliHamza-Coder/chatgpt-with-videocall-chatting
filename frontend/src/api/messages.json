@@ -1,0 +1,85 @@
+{
+  "1": [
+    {
+      "id": "1",
+      "contactId": 1,
+      "sender": "Clint 1",
+      "content": "Hi Mr Salman Asad, Please send the images as discussed on our last call.",
+      "timestamp": "20 minutes ago",
+      "isUser": false
+    },
+    {
+      "id": "2",
+      "contactId": 1,
+      "sender": "You",
+      "content": "Hi Clint, Here are the images. Sorry for sending late though!",
+      "timestamp": "18 minutes ago",
+      "isUser": true
+    },
+    {
+      "id": "3",
+      "contactId": 1,
+      "sender": "Clint 1",
+      "content": "THANKS! I'll review them and get back to you ASAP!!",
+      "timestamp": "15 minutes ago",
+      "isUser": false
+    }
+  ],
+  "2": [
+    {
+      "id": "1",
+      "contactId": 2,
+      "sender": "Clint 2",
+      "content": "Hello, do you have time for a quick meeting today?",
+      "timestamp": "29 minutes ago",
+      "isUser": false
+    }
+  ],
+  "3": [
+    {
+      "id": "1",
+      "contactId": 3,
+      "sender": "Clint 13",
+      "content": "I've sent you the project files via email.",
+      "timestamp": "44 minutes ago",
+      "isUser": false
+    },
+    {
+      "id": "2",
+      "contactId": 3,
+      "sender": "You",
+      "content": "Got them, thanks! I'll take a look and get back to you.",
+      "timestamp": "40 minutes ago",
+      "isUser": true
+    }
+  ],
+  "4": [
+    {
+      "id": "1",
+      "contactId": 4,
+      "sender": "You",
+      "content": "Hi, can we discuss the project timeline?",
+      "timestamp": "2 hours ago",
+      "isUser": true
+    }
+  ],
+  "5": [
+    {
+      "id": "1",
+      "contactId": 5,
+      "sender": "Clint 5",
+      "content": "The meeting is scheduled for tomorrow at 10 AM.",
+      "timestamp": "3 hours ago",
+      "isUser": false
+    },
+    {
+      "id": "2",
+      "contactId": 5,
+      "sender": "You",
+      "content": "Perfect, I'll be there.",
+      "timestamp": "2 hours ago",
+      "isUser": true
+    }
+  ]
+}
+
